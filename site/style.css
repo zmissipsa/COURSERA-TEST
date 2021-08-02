@@ -75,5 +75,6 @@ div{
 .bg{
     height: 500px;
     width: 500px;
-    background-image: url(dessin.jpg);
+    background-image: url(dessin.png);
+    background-repeat:repeat-x;
 }
