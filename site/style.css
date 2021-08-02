@@ -73,8 +73,9 @@ div{
     margin-left: 50%;
 }
 .bg{
-    height: 500px;
-    width: 500px;
-    background-image: url(dessin.png);
+    height: 2000px;
+    width: 2000px;
+    background-color: blue;
+    background-image: url("dessin.png");
     background-repeat:repeat-x;
 }
